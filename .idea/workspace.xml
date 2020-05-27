@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="598897ba-24f4-4449-a480-2f2bee802644" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/intellij/deno/inspection/DenoInspectionSuppressor.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intellij.deno.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/META-INF/plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/messages/DenoBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/messages/DenoBundle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/intellij/deno/DenoBundle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/intellij/deno/DenoBundle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/intellij/deno/DenoConfigurable.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/intellij/deno/DenoConfigurable.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/intellij/deno/DenoLibraryProvider.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/intellij/deno/DenoLibraryProvider.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/intellij/deno/DenoSettings.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/intellij/deno/DenoSettings.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/intellij/deno/DenoUtil.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/intellij/deno/DenoUtil.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/intellij/deno/inspection/DenoEditorNotificationAnnotator.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/intellij/deno/inspection/DenoEditorNotificationAnnotator.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/intellij/deno/lang/DenoCachedFilesSubstitutor.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/intellij/deno/lang/DenoCachedFilesSubstitutor.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/intellij/deno/modules/DenoModuleReferenceContributor.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/intellij/deno/modules/DenoModuleReferenceContributor.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/intellij/deno/run/DenoConfigurationType.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/intellij/deno/run/DenoConfigurationType.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/intellij/deno/run/DenoInterpreter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/intellij/deno/run/DenoInterpreter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/intellij/deno/run/DenoRunConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/intellij/deno/run/DenoRunConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/intellij/deno/run/DenoRunConfigurationProducer.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/intellij/deno/run/DenoRunConfigurationProducer.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/intellij/deno/run/DenoRunState.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/intellij/deno/run/DenoRunState.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/intellij/deno/service/DenoTypeScriptService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/intellij/deno/service/DenoTypeScriptService.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/intellij/deno/service/DenoTypeScriptServiceCompletionContributor.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/intellij/deno/service/DenoTypeScriptServiceCompletionContributor.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/intellij/deno/service/DenoTypeScriptServiceGotoDeclarationHandler.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/intellij/deno/service/DenoTypeScriptServiceGotoDeclarationHandler.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/intellij/deno/service/DenoTypeScriptServiceProtocol.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/intellij/deno/service/DenoTypeScriptServiceProtocol.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/intellij/deno/service/DenoTypeScriptServiceProvider.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/intellij/deno/service/DenoTypeScriptServiceProvider.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/com/intellij/deno/DenoHighlightTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/com/intellij/deno/DenoModulesTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/com/intellij/deno/DenoTestBase.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/src/com/intellij/deno/DenoTypeScriptServiceTest.kt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="deno" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="deno" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="deno" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="intellij" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1cIlNVaiIkzflEPGlcde7u1E6Au" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Deno-tests/testSrc/com/intellij/deno" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Deno-tests/testSrc/com/intellij/deno" />
+      <recent name="$PROJECT_DIR$/Deno-tests/testSrc/com/intellij" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/test/java" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Deno-tests/src" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Deno-tests/testSrc" />
+      <recent name="$PROJECT_DIR$/src/test/java" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.Deno [runIde]">
+    <configuration name="Deno [buildPlugin]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="buildPlugin" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Deno [runIde]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="runIde" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.Deno [buildPlugin]" />
+      <item itemvalue="Gradle.Deno [runIde]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.DenoHighlightTest" />
+        <item itemvalue="Gradle.Deno [runIde]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="598897ba-24f4-4449-a480-2f2bee802644" name="Default Changelist" comment="" />
+      <created>1590223949046</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590223949046</updated>
+      <workItem from="1590223952908" duration="825000" />
+      <workItem from="1590225160431" duration="203000" />
+      <workItem from="1590236752582" duration="175000" />
+      <workItem from="1590237025389" duration="4000" />
+      <workItem from="1590237035021" duration="28000" />
+      <workItem from="1590237065454" duration="506000" />
+      <workItem from="1590247811712" duration="80000" />
+      <workItem from="1590580236593" duration="277000" />
+      <workItem from="1590580531228" duration="982000" />
+      <workItem from="1590581688536" duration="495000" />
+      <workItem from="1590582267824" duration="570000" />
+      <workItem from="1590583056188" duration="2934000" />
+      <workItem from="1590586108941" duration="2121000" />
+      <workItem from="1590591653585" duration="787000" />
+      <workItem from="1590592714572" duration="537000" />
+      <workItem from="1590593359703" duration="18000" />
+      <workItem from="1590593379885" duration="374000" />
+      <workItem from="1590593765779" duration="172000" />
+      <workItem from="1590593941267" duration="141000" />
+      <workItem from="1590594084827" duration="2345000" />
+      <workItem from="1590596438601" duration="1756000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="249" y="121" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590596449741">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="249" y="121" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.812@0.23.1440.812" timestamp="1590596449741" />
+    <state x="190" y="348" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1590595468967">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="190" y="348" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.23.1440.812@0.23.1440.812" timestamp="1590595468967" />
+    <state width="1386" height="222" key="GridCell.Tab.0.bottom" timestamp="1590596436069">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1386" height="222" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1590596436069" />
+    <state width="1386" height="222" key="GridCell.Tab.0.center" timestamp="1590596436068">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1386" height="222" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1590596436068" />
+    <state width="1386" height="222" key="GridCell.Tab.0.left" timestamp="1590596436067">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1386" height="222" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1590596436067" />
+    <state width="1386" height="222" key="GridCell.Tab.0.right" timestamp="1590596436068">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1386" height="222" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1590596436068" />
+    <state width="1386" height="129" key="GridCell.Tab.1.bottom" timestamp="1590587463669">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1386" height="129" key="GridCell.Tab.1.bottom/0.23.1440.812@0.23.1440.812" timestamp="1590587463669" />
+    <state width="1386" height="129" key="GridCell.Tab.1.center" timestamp="1590587463668">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1386" height="129" key="GridCell.Tab.1.center/0.23.1440.812@0.23.1440.812" timestamp="1590587463668" />
+    <state width="1386" height="129" key="GridCell.Tab.1.left" timestamp="1590587463668">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1386" height="129" key="GridCell.Tab.1.left/0.23.1440.812@0.23.1440.812" timestamp="1590587463668" />
+    <state width="1386" height="129" key="GridCell.Tab.1.right" timestamp="1590587463668">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="1386" height="129" key="GridCell.Tab.1.right/0.23.1440.812@0.23.1440.812" timestamp="1590587463668" />
+    <state x="188" y="72" key="NewModule_or_Project.wizard" timestamp="1590596670063">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="188" y="72" key="NewModule_or_Project.wizard/0.23.1440.812@0.23.1440.812" timestamp="1590596670063" />
+    <state x="80" y="23" key="SettingsEditor" timestamp="1590591964967">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="80" y="23" key="SettingsEditor/0.23.1440.812@0.23.1440.812" timestamp="1590591964967" />
+    <state width="720" height="406" key="XDebugger.FullValuePopup" timestamp="1590586567250">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state width="720" height="406" key="XDebugger.FullValuePopup/0.23.1440.812@0.23.1440.812" timestamp="1590586567250" />
+    <state x="0" y="23" key="new project wizard" timestamp="1590596572554">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="0" y="23" key="new project wizard/0.23.1440.812@0.23.1440.812" timestamp="1590596572554" />
+    <state x="301" y="23" width="838" height="812" key="search.everywhere.popup" timestamp="1590594030980">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="301" y="23" width="838" height="812" key="search.everywhere.popup/0.23.1440.812@0.23.1440.812" timestamp="1590594030980" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Remote">
+        <watch expression="JSLanguageServiceUtil.getPluginDirectory(this::class.java, &quot;deno-service/node_modules/typescript-deno-plugin/lib&quot;).path" language="kotlin" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
