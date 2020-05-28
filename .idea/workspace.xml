@@ -20,46 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="598897ba-24f4-4449-a480-2f2bee802644" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/intellij/deno/inspection/DenoInspectionSuppressor.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE.TXT" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/intellij.deno.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/META-INF/plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/META-INF/plugin.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/messages/DenoBundle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/messages/DenoBundle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/intellij/deno/DenoBundle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/intellij/deno/DenoBundle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/intellij/deno/DenoConfigurable.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/intellij/deno/DenoConfigurable.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/intellij/deno/DenoLibraryProvider.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/intellij/deno/DenoLibraryProvider.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/intellij/deno/DenoSettings.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/intellij/deno/DenoSettings.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/intellij/deno/DenoUtil.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/intellij/deno/DenoUtil.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/intellij/deno/inspection/DenoEditorNotificationAnnotator.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/intellij/deno/inspection/DenoEditorNotificationAnnotator.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/intellij/deno/lang/DenoCachedFilesSubstitutor.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/intellij/deno/lang/DenoCachedFilesSubstitutor.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/intellij/deno/modules/DenoModuleReferenceContributor.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/intellij/deno/modules/DenoModuleReferenceContributor.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/intellij/deno/run/DenoConfigurationType.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/intellij/deno/run/DenoConfigurationType.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/intellij/deno/run/DenoInterpreter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/intellij/deno/run/DenoInterpreter.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/intellij/deno/run/DenoRunConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/intellij/deno/run/DenoRunConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/intellij/deno/run/DenoRunConfigurationProducer.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/intellij/deno/run/DenoRunConfigurationProducer.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/intellij/deno/run/DenoRunState.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/intellij/deno/run/DenoRunState.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/intellij/deno/service/DenoTypeScriptService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/intellij/deno/service/DenoTypeScriptService.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/intellij/deno/service/DenoTypeScriptServiceCompletionContributor.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/intellij/deno/service/DenoTypeScriptServiceCompletionContributor.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/intellij/deno/service/DenoTypeScriptServiceGotoDeclarationHandler.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/intellij/deno/service/DenoTypeScriptServiceGotoDeclarationHandler.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/intellij/deno/service/DenoTypeScriptServiceProtocol.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/intellij/deno/service/DenoTypeScriptServiceProtocol.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/intellij/deno/service/DenoTypeScriptServiceProvider.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/intellij/deno/service/DenoTypeScriptServiceProvider.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/com/intellij/deno/DenoHighlightTest.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/com/intellij/deno/DenoModulesTest.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/com/intellij/deno/DenoTestBase.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/src/com/intellij/deno/DenoTypeScriptServiceTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +67,7 @@
     </system>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1cIlNVaiIkzflEPGlcde7u1E6Au" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -192,7 +153,6 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.DenoHighlightTest" />
         <item itemvalue="Gradle.Deno [runIde]" />
       </list>
     </recent_temporary>
@@ -227,7 +187,8 @@
       <workItem from="1590593765779" duration="172000" />
       <workItem from="1590593941267" duration="141000" />
       <workItem from="1590594084827" duration="2345000" />
-      <workItem from="1590596438601" duration="1756000" />
+      <workItem from="1590596438601" duration="2317000" />
+      <workItem from="1590672280722" duration="1297000" />
     </task>
     <servers />
   </component>
